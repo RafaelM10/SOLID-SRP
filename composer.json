@@ -1,0 +1,16 @@
+{
+    "name": "meira/app_carrinho_compras",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\":"src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RafaelM10",
+            "email": "rafameira10@icloud.com"
+        }
+    ],
+    "require": {}
+}
