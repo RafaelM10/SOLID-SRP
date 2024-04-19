@@ -17,7 +17,7 @@ class CarrinhoDeCompras
     return $this->itens;
   }
 
-  public function adicionarItem(Item $item)
+  public function setAdicionarItem(Item $item)
   {
     array_push($this->itens, $item);
     return true;
